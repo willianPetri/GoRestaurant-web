@@ -9,19 +9,11 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
+      "id": 5,
       "name": "moda grega",
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "price": "25.49",
-      "description": "Especial do chefe Jacquin",
-      "id": 5
-    },
-    {
-      "name": "Dale",
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "price": "99.99",
-      "description": "Chama no trotos",
-      "available": true,
-      "id": 6
+      "price": "55.55",
+      "description": "Especial do chefe Jacquin"
     },
     {
       "name": "Lasanha",
@@ -32,11 +24,10 @@
       "id": 7
     },
     {
-      "name": "Daaaaaaaaaaaaaaaale",
+      "name": "Iiiiiha",
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "price": "00,00",
+      "price": "15.50",
       "description": "Dale",
-      "available": true,
       "id": 10
     },
     {
@@ -78,14 +69,6 @@
       "description": "f",
       "available": true,
       "id": 15
-    },
-    {
-      "name": "f total",
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "price": "55",
-      "description": "f",
-      "available": true,
-      "id": 16
     }
   ]
 }
