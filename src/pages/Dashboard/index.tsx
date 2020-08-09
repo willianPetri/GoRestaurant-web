@@ -39,7 +39,20 @@ const Dashboard: React.FC = () => {
     food: Omit<IFoodPlate, 'id' | 'available'>,
   ): Promise<void> {
     try {
-      // TODO ADD A NEW FOOD PLATE TO THE API
+      const { name, image, price, description } = food;
+
+      await api
+        .post('/foods', {
+          name,
+          image,
+          price,
+          description,
+          available: true,
+        })
+        .then(res => {
+          // setFoods(res.data);
+          console.log('Cadastrado com sucesso! :)');
+        });
     } catch (err) {
       console.log(err);
     }
@@ -53,6 +66,14 @@ const Dashboard: React.FC = () => {
 
   async function handleDeleteFood(id: number): Promise<void> {
     // TODO DELETE A FOOD PLATE FROM THE API
+    // fazer um try catch com o api.delete
+    try {
+      await api.delete(`foods/${id}`);
+
+      console.log(`Removido a comida com o id ${id} com sucesso ! DALE :)`);
+    } catch (err) {
+      console.log(err);
+    }
   }
 
   function toggleModal(): void {

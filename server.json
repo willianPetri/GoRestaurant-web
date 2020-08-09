@@ -1,14 +1,6 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
-    },
-    {
       "id": 2,
       "name": "Veggie",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
@@ -17,12 +9,83 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
+      "name": "moda grega",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "price": "25.49",
+      "description": "Especial do chefe Jacquin",
+      "id": 5
+    },
+    {
+      "name": "Dale",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "price": "99.99",
+      "description": "Chama no trotos",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "id": 6
+    },
+    {
+      "name": "Lasanha",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "price": "55.99",
+      "description": "Lasagna do chefe fogassa",
+      "available": true,
+      "id": 7
+    },
+    {
+      "name": "Daaaaaaaaaaaaaaaale",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "price": "00,00",
+      "description": "Dale",
+      "available": true,
+      "id": 10
+    },
+    {
+      "name": "Trotos",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "price": "35.99",
+      "description": "kdasndjasdasd",
+      "available": true,
+      "id": 11
+    },
+    {
+      "name": "cxzcz",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "price": "55",
+      "description": "zxczxc",
+      "available": true,
+      "id": 12
+    },
+    {
+      "name": "asdasdascxzcxzcxzczqwfsdadfwgsd",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "price": "55.77",
+      "description": "fasodkfdsfjksldnfdsfb32uurhfnkdsf",
+      "available": true,
+      "id": 13
+    },
+    {
+      "name": "zxc",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "price": "6",
+      "description": "zxc",
+      "available": true,
+      "id": 14
+    },
+    {
+      "name": "f",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "price": "25",
+      "description": "f",
+      "available": true,
+      "id": 15
+    },
+    {
+      "name": "f total",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "price": "55",
+      "description": "f",
+      "available": true,
+      "id": 16
     }
   ]
 }
