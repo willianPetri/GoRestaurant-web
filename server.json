@@ -9,66 +9,12 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
-      "id": 5,
-      "name": "moda grega",
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "price": "55.55",
-      "description": "Especial do chefe Jacquin"
-    },
-    {
       "name": "Lasanha",
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
       "price": "55.99",
       "description": "Lasagna do chefe fogassa",
       "available": true,
       "id": 7
-    },
-    {
-      "name": "Iiiiiha",
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "price": "15.50",
-      "description": "Dale",
-      "id": 10
-    },
-    {
-      "name": "Trotos",
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "price": "35.99",
-      "description": "kdasndjasdasd",
-      "available": true,
-      "id": 11
-    },
-    {
-      "name": "cxzcz",
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "price": "55",
-      "description": "zxczxc",
-      "available": true,
-      "id": 12
-    },
-    {
-      "name": "asdasdascxzcxzcxzczqwfsdadfwgsd",
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "price": "55.77",
-      "description": "fasodkfdsfjksldnfdsfb32uurhfnkdsf",
-      "available": true,
-      "id": 13
-    },
-    {
-      "name": "zxc",
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "price": "6",
-      "description": "zxc",
-      "available": true,
-      "id": 14
-    },
-    {
-      "name": "f",
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "price": "25",
-      "description": "f",
-      "available": true,
-      "id": 15
     }
   ]
 }
