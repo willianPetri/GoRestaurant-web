@@ -13,7 +13,7 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
       "price": "55.99",
       "description": "Lasagna do chefe fogassa",
-      "available": true,
+      "available": false,
       "id": 7
     }
   ]
